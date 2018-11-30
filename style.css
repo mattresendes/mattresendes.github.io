@@ -55,5 +55,6 @@ footer{
 
 }
 .indexbg{
-    background-image: url(bg.jpg)
+    background-image: url(bg.jpg);
+    background-size: 100%
 }
