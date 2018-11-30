@@ -7,8 +7,9 @@ h1 {
     text-align: center;
 }
 
-body {
-    background-color: rgb(255, 156, 27);
+/*body {
+    background-color: rgb(255, 156, 27);*/
+    
 }
 nav ul {
     position: fixed;
