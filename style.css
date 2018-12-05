@@ -8,7 +8,8 @@ h1 {
 }
 
 .gen{
-    background-color: rgb(126, 119, 119);
+    /*background-color: rgb(126, 119, 119);*/
+    background-image: url(corsair.jpg);
     color: white;
     
 }
