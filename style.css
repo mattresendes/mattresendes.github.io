@@ -55,7 +55,6 @@ footer{
     background-color: rgb(0, 0, 0);
     color: white;
     
-
 }
 .index{
     background-image: url(corsair.jpg);
@@ -67,4 +66,7 @@ ul li a {
 }
 li a {
     color: white;
+}
+<img {
+    image-orientation: 0deg
 }
